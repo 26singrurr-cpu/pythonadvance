@@ -7,4 +7,4 @@ print("Name:", name)
 print("Age:", age)
 print("College:", college)
 print("Branch:", branch)
-input("press enter to exit")
+
